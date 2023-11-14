@@ -20,7 +20,6 @@
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=redux&logoColor=ffffff">
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=ffffff">
 <img src="https://img.shields.io/badge/ant%20design-0170FE?style=for-the-badge&logo=antdesign&logoColor=ffffff">
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=ffffff">
 
 <b>Backend</b><br />
 <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff">
